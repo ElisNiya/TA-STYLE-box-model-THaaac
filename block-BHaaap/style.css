@@ -64,3 +64,9 @@ a {
     background-color: #a1a1a1;
     text-transform: uppercase;
 }
+.circle {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}

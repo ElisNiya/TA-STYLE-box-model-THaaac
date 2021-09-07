@@ -1,0 +1,83 @@
+header{
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    text-transform: capitalize;
+}
+
+hr {
+    border-bottom: 3px solid lightgray;
+    width: 20%;
+}
+
+.bigbox{
+    background-color: rosybrown;
+    display: inline-block;
+    padding: 15px;
+}
+.box {
+    background-color: lightslategray;
+    width: 300px;
+    height:300px;
+    border: 5px solid black;
+}
+
+.smallbox{
+    border: 15px solid green;
+    width: 90%;
+    height: 90%;
+    display: inline-block;
+    background-color: lightyellow;
+}
+
+.points {
+    display: inline-block;
+}
+.circle {
+    border-radius: 50%;
+    width: 3px;
+    height: 3px;
+    background-color: yellow;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.padding{
+    background-color: green;
+}
+.border {
+    background-color: black;
+}
+
+.margin {
+    background-color: rosybrown;
+}
+
+.rectangle {
+    border: 2px solid black;
+    width: 600px;
+    display: inline-block;
+}
+
+.graybox {
+    display: inline-block;
+    width: 180px;
+    height: 100px;
+    background-color: lightgray;
+    margin: 5px;
+
+}
+
+.nextline {
+    display: block;
+}
+.wborder {
+    border: 2px solid black;
+}

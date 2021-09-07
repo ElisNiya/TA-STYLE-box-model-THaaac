@@ -1,44 +1,45 @@
 main{
     width: 500px;
 }
-.red{
-    border: 2px solid black;
+.box {
     background-color: darkred;
     width: 70px;
     height: 60px;
     margin: 20px;
+    display: inline-block;
+}
+.red{
+    border: 4px solid black;
 }
 .dashes{
-    border: 1px dashed black;
+    border: 4px dashed black;
     background-color: darkred;
     width: 70px;
     height: 60px;
     margin: 20px;
+    display: inline-block;
 }
 .dotted{
-    border: 1px dotted black;
+    border: 5px dotted black;
     background-color: darkred;
     width: 70px;
     height: 60px;
     margin: 20px;
+    display: inline-block;
 }
-.none{
-    background-color: darkred; 
-    width: 70px;
-    height: 60px;   
-    margin: 20px;
-}
+
+
 .colorful{
     border-top: 5px solid darkslateblue;
     border-bottom: 5px solid darkorchid;
     border-right: 5px solid darkorange;
     border-left:5px solid darkslategrey;
     background-color: red;
-    width:90%;
-    height: 90%;
+    color:white;
 }
 .dark {
     background-color: darkred;
-    width: 600px;
-    height: 300px;
+    padding: 20px;
+    display: inline-block;
+    margin: 20px; 
 }

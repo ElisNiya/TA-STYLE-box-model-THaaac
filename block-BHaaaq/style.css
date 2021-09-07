@@ -1,0 +1,44 @@
+main{
+    width: 500px;
+}
+.red{
+    border: 2px solid black;
+    background-color: darkred;
+    width: 70px;
+    height: 60px;
+    margin: 20px;
+}
+.dashes{
+    border: 1px dashed black;
+    background-color: darkred;
+    width: 70px;
+    height: 60px;
+    margin: 20px;
+}
+.dotted{
+    border: 1px dotted black;
+    background-color: darkred;
+    width: 70px;
+    height: 60px;
+    margin: 20px;
+}
+.none{
+    background-color: darkred; 
+    width: 70px;
+    height: 60px;   
+    margin: 20px;
+}
+.colorful{
+    border-top: 5px solid darkslateblue;
+    border-bottom: 5px solid darkorchid;
+    border-right: 5px solid darkorange;
+    border-left:5px solid darkslategrey;
+    background-color: red;
+    width:90%;
+    height: 90%;
+}
+.dark {
+    background-color: darkred;
+    width: 600px;
+    height: 300px;
+}

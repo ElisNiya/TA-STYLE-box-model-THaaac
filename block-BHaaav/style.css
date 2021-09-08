@@ -1,0 +1,29 @@
+
+header{
+    background-color: rgb(30, 32, 44);
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color:white;
+}
+
+
+.container {
+    padding:100px;
+    background-color: rgb(30, 32, 44);
+    color: white;
+}
+.punkteins{
+    padding: 100px;
+    background-color: rgb(70, 103, 168);
+    color: white;
+}
+
+img {
+    clip-path: circle();
+    width: 250px;
+}
